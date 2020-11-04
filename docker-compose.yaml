@@ -1,0 +1,10 @@
+version: '3.3'
+services:
+    nifi:
+        container_name: nifi_unaerp
+        image: apache/nifi:1.11.4
+        user: root
+        network_mode: bridge
+        ports:
+            - 8080:8080 
+            - 9999:9999 
