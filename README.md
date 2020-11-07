@@ -2,6 +2,7 @@
 
 ## Slides
 
+[YouTube](https://youtu.be/RHnGinL2TEc)
 [SlideShare](https://www.slideshare.net/elizarp3/unaerp-0411-digerindo-dados-com-apache-nifi)
 
 ## Clonando esse projeto
